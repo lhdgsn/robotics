@@ -1,2 +1,6 @@
 // kf.cpp
-// Practice implementation of simple kalman filter
+// Kalman filter implementation
+// Liam Hodgson
+// June 9 2017
+
+
